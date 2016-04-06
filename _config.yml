@@ -18,15 +18,15 @@ avatar: https://avatars1.githubusercontent.com/u/5896867?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:chris_graham@acm.org
+  email:"chris_graham@acm.org"
   facebook:
   flickr:
   github: chris-graham
-  instagram:https://www.instagram.com/zivigliano/
-  linkedin:https://www.linkedin.com/in/grahamct
+  instagram:"https://www.instagram.com/zivigliano/"
+  linkedin:"https://www.linkedin.com/in/grahamct"
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: @chris_graham
+  twitter:"@chris_graham"
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

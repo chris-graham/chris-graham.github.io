@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Currently a Data Science student at Metis
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chris_graham@acm.org](mailto:chris_graham@acm.org)

@@ -9,7 +9,7 @@ name: Chris Graham
 description: Data Scientist @ Metis
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/5896867?v=3&s=460
+avatar: https://scontent-lga3-1.xx.fbcdn.net/hphotos-xlt1/t31.0-8/12672128_10154110534517174_9042289257202180057_o.jpg
 
 #
 # Flags below are optional
@@ -19,11 +19,11 @@ avatar: https://avatars1.githubusercontent.com/u/5896867?v=3&s=460
 footer-links:
   dribbble:
   email: chris_graham@acm.org
-  facebook: https://www.facebook.com/zivigliano
+  facebook: zivigliano
   flickr:
-  github: https://github.com/chris-graham
-  instagram: https://www.instagram.com/zivigliano/
-  linkedin: https://www.linkedin.com/in/grahamct
+  github: chris-graham
+  instagram: zivigliano
+  linkedin: grahamct
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: "@chris_graham"
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-76055952-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
